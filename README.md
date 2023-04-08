@@ -24,7 +24,7 @@ Power the machine using a 9V battery.
 Adjust the speed and duration of the motor using the code to suit your requirements.
 Place the funnel on the soil and turn on the machine to start seeding.
 # Code
-The code for the seed sowing machine is available in the code.ino file.
+The code for the seed sowing machine is available in the automated_seed_sowing_machine.ino file.
 
 # Conclusion
 This automated seed sowing machine can be a useful tool for farmers looking to increase efficiency and accuracy in their planting process. By using an Arduino microcontroller to control the machine, the speed and duration of the motor can be adjusted to suit the specific requirements of each crop. With some adjustments, this machine can be scaled up to cover larger fields and can even be used for other purposes such as fertilizing or spraying.
